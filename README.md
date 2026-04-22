@@ -37,12 +37,6 @@ A Streamlit-based web application that recommends similar movies based on user i
 └── README.md
 ```
 
----
-
-
-## 🌐 Demo
-Link-https://movierecommendation-hyper7.streamlit.app/
-
 
 ## 💡 Future Improvements
 
